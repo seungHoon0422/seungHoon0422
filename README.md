@@ -9,9 +9,7 @@
 <br>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungHoon0422)
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungHoon0422&layout=compact&theme=tokyonight)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungHoon0422&show_icons=true&theme=nightowl)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=psh104404)](https://solved.ac/psh104404/)
 

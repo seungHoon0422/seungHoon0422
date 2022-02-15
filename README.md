@@ -12,7 +12,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungHoon0422&layout=레이아웃 스타일&theme=스타일)
 
 
-### Git Status
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungHoon0422&show_icons=true&theme=nightowl)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=psh104404)](https://solved.ac/psh104404/)
 

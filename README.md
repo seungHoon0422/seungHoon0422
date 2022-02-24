@@ -1,5 +1,4 @@
 
-✋ Hi, I'm Seung Hoon
 
 
 

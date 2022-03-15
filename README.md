@@ -3,6 +3,15 @@
 
 ####  🔥 Studying
 <p>
+✔focus : 
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white" />
+<img src="https://img.shields.io/badge/ajax-00599C?style=flat-square&logo=ajax&logoColor=white" />
+<img src="https://img.shields.io/badge/Servlet-00599C?style=flat-square&logo=Servlet&logoColor=white" />
+<img src="https://img.shields.io/badge/Jsp-00599C?style=flat-square&logo=Jsp&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=jQuery&logoColor=white" />
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white" />
+</p>
+<p>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white" />
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white" />
 <img src="https://img.shields.io/badge/ajax-00599C?style=flat-square&logo=ajax&logoColor=white" />

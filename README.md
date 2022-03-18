@@ -1,7 +1,6 @@
 
 
 
-
 <div align=center><h1>🔥 Focus</h1></div>
 <div align=center> 
   <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
@@ -58,11 +57,10 @@
   
 
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungHoon0422&layout=compact&theme=tokyonight)
-  
-
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=psh104404)](https://solved.ac/psh104404)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungHoon0422&layout=compact&theme=tokyonight)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungHoon0422&show_icons=true&theme=nightowl)
-
+  
 </div>
 
 

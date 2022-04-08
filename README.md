@@ -4,9 +4,6 @@
 <div align=center><h1>🔥 Focus</h1></div>
 <div align=center> 
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
-  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-  <img src="https://img.shields.io/badge/JSP-6DB33F?style=for-the-badge&&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Servlet-F7DF1E?style=for-the-badge&logoColor=white"> 
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
 </div>
 

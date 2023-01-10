@@ -40,7 +40,6 @@
   <img src="https://img.shields.io/badge/MyBatis-A435F0?style=for-the-badge&logo=myBatis&logoColor=white">
   <img src="https://img.shields.io/badge/Apache Hadoop-66CCFF?style=for-the-badge&logo=ApacheHadoop&logoColor=white"> 
   <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
-  <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
   <br>
   
   <!-- /////////////////////        Framework          ///////////////////////////-->

@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java8&logoColor=white"> 
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
-  <img src="https://img.shields.io/badge/go-3776AB?style=for-the-badge&logo=golang&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white"> 
   <br>
   
  
